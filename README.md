@@ -1,4 +1,7 @@
 # A02
+Part 1:
+ To use Webstrom you must select Git from the main menu, choose a file in the Project view, select Open In, then select the file in the Project view and press Ctrl Shift 0A, and finally type Open on Github.
+Part 2:
  * Branch: In Git it's a different line of development.
  * Clone: A local copy of a repository or project that allows you to work on the code without any changes made to the original one.
  * Commit: A saved change made to the codebase.
